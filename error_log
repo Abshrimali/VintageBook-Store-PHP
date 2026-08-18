@@ -1,0 +1,187 @@
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 6
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 60
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 125
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 243
+[21-Sep-2023 19:28:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/index.php on line 183
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'qarshien_Vintage_book'@'localhost' (using password: YES) in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 6
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 60
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 125
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 243
+[21-Sep-2023 19:30:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/index.php on line 183
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'qarshien_Vintage_book'@'localhost' (using password: YES) in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 6
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 60
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 125
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 243
+[21-Sep-2023 19:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/index.php on line 183
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'qarshien_Vintage_book'@'localhost' (using password: YES) in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 6
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 60
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 125
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 35
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/shop.php on line 96
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 243
+[21-Sep-2023 19:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/shop.php on line 178
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'qarshien_Vintage_book'@'localhost' (using password: YES) in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 6
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 60
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 120
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 125
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/connection.php on line 243
+[21-Sep-2023 19:30:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/index.php on line 183
+[21-Sep-2023 19:31:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:31:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:31:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:32:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:32:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:32:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:32:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:32:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:32:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:38:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:38:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:38:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[21-Sep-2023 19:39:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:39:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[21-Sep-2023 19:39:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[21-Sep-2023 19:39:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[21-Sep-2023 19:39:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[21-Sep-2023 19:39:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:39:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[21-Sep-2023 19:39:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:39:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[21-Sep-2023 19:39:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:39:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[21-Sep-2023 19:43:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:45:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:46:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:46:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:47:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:47:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:51:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:51:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:51:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:51:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:52:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:52:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:53:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:53:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:53:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:53:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:53:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 19:59:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[21-Sep-2023 20:02:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/header.php on line 4
+[22-Sep-2023 06:14:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/contact.php on line 168
+[22-Sep-2023 09:10:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/qarshien/care.khareedoshoes.com/VintageBook/spec_product.php on line 116
+[22-Sep-2023 09:10:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/qarshien/care.khareedoshoes.com/VintageBook/spec_product.php on line 116
+[22-Sep-2023 09:12:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/qarshien/care.khareedoshoes.com/VintageBook/spec_product.php on line 178
+[22-Sep-2023 09:36:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/contact.php on line 168
+[22-Sep-2023 09:40:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:40:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:40:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:40:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:40:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:40:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:40:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:40:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:40:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:40:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:40:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:40:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:40:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:41:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:42:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:42:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 159
+[22-Sep-2023 09:42:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 160
+[22-Sep-2023 09:42:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 161
+[22-Sep-2023 09:42:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:42:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 159
+[22-Sep-2023 09:42:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 160
+[22-Sep-2023 09:42:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 161
+[22-Sep-2023 09:43:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:44:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:44:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:44:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:44:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 159
+[22-Sep-2023 09:44:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 160
+[22-Sep-2023 09:44:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 161
+[22-Sep-2023 09:45:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:45:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:45:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 159
+[22-Sep-2023 09:45:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 160
+[22-Sep-2023 09:45:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 161
+[22-Sep-2023 09:48:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:48:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 150
+[22-Sep-2023 09:48:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 159
+[22-Sep-2023 09:48:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 160
+[22-Sep-2023 09:48:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/register.php on line 173
+[22-Sep-2023 09:51:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:51:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:52:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:52:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:52:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:52:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:52:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:52:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:52:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:52:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:52:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:52:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:52:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:52:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:52:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:52:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:52:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:52:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:52:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:52:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:52:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:52:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:54:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:54:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:55:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:55:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:55:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:55:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:55:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:55:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:55:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:55:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:55:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:55:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:55:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:55:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:59:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:59:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:59:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:59:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:59:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:59:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:59:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:59:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 09:59:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 09:59:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 09:59:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 09:59:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 10:06:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 10:07:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 10:07:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 10:07:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 10:07:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156
+[22-Sep-2023 10:07:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 147
+[22-Sep-2023 10:07:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 154
+[22-Sep-2023 10:07:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 155
+[22-Sep-2023 10:07:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/qarshien/care.khareedoshoes.com/VintageBook/login.php on line 156

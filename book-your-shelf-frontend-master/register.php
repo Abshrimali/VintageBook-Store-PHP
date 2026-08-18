@@ -1,0 +1,374 @@
+<?php
+include("connection.php");
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Register | Book Your Shelf</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Little Closet template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+    <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Favicon  -->
+    <link rel="icon" href="images/logo/book_your_shelf_tab.png">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" type="text/css" href="styles/login.css">
+    <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+    <link rel="stylesheet" type="text/css" href="styles/core-style.css">
+    <link rel="stylesheet" type="text/css" href="styles/util.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+<body>
+<header class="header_area">
+    <div class="classy-nav-container breakpoint-off d-flex align-items-center justify-content-between">
+        <!-- Classy Menu -->
+        <nav class="classy-navbar" id="essenceNav">
+            <!-- Logo -->
+            <a href="index.php" class="book_your_shelf_logo">
+                <img src="images/logo/Your paragraph text.png" alt="">
+            </a>
+            <!-- Navbar Toggler -->
+            <div class="classy-navbar-toggler">
+                <span class="navbarToggler"><span></span><span></span><span></span></span>
+            </div>
+            <!-- Menu -->
+            <div class="classy-menu">
+                <!-- close btn -->
+                <div class="classycloseIcon">
+                    <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                </div>
+                <!-- Nav Start -->
+                <div class="classynav">
+                <ul>
+                            <li><a href="index.php">Home</a> </li>
+                            <li><a href="#">Category</a>
+                                <div class="megamenu">
+                                    <ul class="single-mega cn-col-4">
+                                        <li class="title">Categories</li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Fiction and
+                                                Literature</a>
+                                        </li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Health and Care</a>
+                                        </li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Literature and
+                                                Writing</a>
+                                        </li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Life Style</a></li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Sports and
+                                                Recreation</a>
+                                        </li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Science Fiction and
+                                                Fantasy</a></li>
+                                    </ul>
+                                    <ul class="single-mega cn-col-4">
+                                        <li class="title">Campaigns</li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Black Friday</a></li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Sports Day</a></li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">%40 Discount on
+                                                Science
+                                                Fiction and Fantasy</a></li>
+                                    </ul>
+                                    <ul class="single-mega cn-col-4">
+                                        <li class="title">Hot Lists</li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Best Sellers</a></li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">New Releases</a></li>
+                                        <li><a href="category.html" class="nav-bar-text-overflow">Our Picks For You</a>
+                                        </li>
+                                    </ul>
+                                    <div class="single-mega cn-col-4">
+                                        <img src="images/icons/01brownebookicon.jpg" alt="">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href="about.php">About us</a>
+                            </li>
+                            <li><a href="contact.php">Contact Us</a>
+                            </li>
+                        </ul>
+                </div>
+                <!-- Nav End -->
+            </div>
+        </nav>
+
+        <!-- Header Meta Data -->
+        <div class="header-meta d-flex clearfix justify-content-end">
+            <!-- Search Area -->
+            <div class="search-area">
+                <form action="#" method="post">
+                    <input type="search" name="search" id="headerSearch" placeholder="Type for search">
+                    <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                </form>
+            </div>
+
+            <!-- User Area -->
+            <div class="user-button-dropdown user-login-info">
+                <a href=""><img src="images/core-img/user.svg" alt=""></a>
+                <div class="user-button-dropdown-content">
+                    <a href="register.php" style="line-height: 40px">Register</a>
+                    <a href="login.php" style="line-height: 40px">Login</a>
+                    <a href="profile.html" style="line-height: 40px">Profile</a>
+                    <a href="admin-panel.html" style="line-height: 40px">Panel</a>
+                    <a href="index.html" style="line-height: 40px">Logout</a>
+                </div>
+            </div>
+
+            <!-- Favourite Area -->
+            <div class="favourite-area">
+                <a href="wish-list.html"><img src="images/core-img/heart.svg" alt=""></a>
+            </div>
+
+            <!-- Cart Area -->
+            <div class="cart-area">
+                <a href="cart.html" id="essenceCartBtn"><img src="images/core-img/bag.svg" alt="">
+                    <span>3</span></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+    <div class="super_container">
+        <div class="super_container_inner">
+            <div class="super_overlay"></div>
+
+            <div class="login">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-2 align-self-left"></div>
+                        <div class="col-md-8 align-self-center">
+                            <div class="billing">
+
+                                <div class="login_title">Register</div>
+                                <div class="login_form_container">
+                                    <form action="#" id="login_form" class="login_form" method="post">
+                                        <div>
+                                            <!-- Name -->
+                                            <div class="login-text p-b-10" style="color: black;">Name</div>
+                                            <input type="text" name="name" id="register_name"
+                                                class="login_input form-control" required="required">
+                                        </div>
+                                        <div>
+                                            <!-- Surname -->
+                                            <div class="login-text p-b-10" style="color: black;">Surname</div>
+                                            <input type="text" name="last_name" id="register_surname"
+                                                class="login_input form-control" required="required">
+                                        </div>
+                                        <div>
+                                            <!-- Email -->
+                                            <div class="login-text p-b-10" style="color: black;">E-Mail Address</div>
+                                            <input type="email" name="email" id="register_email"
+                                                class="login_input form-control" required="required">
+                                        </div>
+                                        <div>
+                                            <!-- Password -->
+                                            <div class="login-text p-b-10" style="color: black;">Password</div>
+                                            <div class="input-group">
+                                                <input type="password" name="pass" id="register_password"
+                                                    class="login_input form-control pwd" required="required">
+                                                <div class="input-group-append">
+                                                    <span class="input-group-text show_password_bg">
+                                                        <button class="btn btn-default reveal" type="button"><i
+                                                                class="fa fa-eye" id="eye"></i></button>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <span>*Your password must be 8-16 characters, and include at least one
+                                                    lowercase letter, one uppercase letter, and a number.</span>
+                                            </div>
+                                        </div>
+                                        <div class="login_extra">
+                                            <ul>
+                                                <li class="billing_info d-flex flex-row">
+                                                    <div>
+                                                        <label>
+                                                            <label class="checkbox_container">
+                                                                <input type="checkbox" id="permission_agreement"
+                                                                    name="permission_agreement"
+                                                                    class="billing_checkbox">
+                                                                <span class="checkbox_mark"></span>
+                                                            </label>
+                                                            <label style="padding-left: 29px; cursor: text">
+                                                                <span class="checkbox_text login-text">I have permission
+                                                                    to send commercial electronic messages
+                                                                    to Oak Book Store Marketing Inc. to those mentioned
+                                                                    <a href="privacy_policy.html" target="_blank"
+                                                                        class="login-text register-text">
+                                                                        here</a>.</span>
+                                                            </label>
+                                                        </label>
+                                                        <label>
+                                                            <label class="checkbox_container">
+                                                                <input type="checkbox" id="membership_agreement"
+                                                                    name="membership_agreement"
+                                                                    class="billing_checkbox">
+                                                                <span class="checkbox_mark"></span>
+                                                            </label>
+                                                            <label style="padding-left: 29px; cursor: text">
+                                                                <span class="checkbox_text login-text">I have read and
+                                                                    approved the
+                                                                    <a href="membership.html" target="_blank"
+                                                                        class="login-text register-text"> Membership
+                                                                        Agreement</a>.</span>
+                                                            </label>
+                                                        </label>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div><!--ERROR--></div>
+                                        <div><input type="submit" name="submit" class="login_button trans_200"
+                                                value="Register"></div>
+                                        <div class="text-center login-text">Already have an account? <a
+                                                href="login.php" class="login-text register-text">Login</a>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2 align-self-right"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <footer class="footer">
+                <div class="footer_content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-2 footer_col"></div>
+
+                            <!-- About -->
+                            <div class="col-lg-4 footer_col">
+                                <div class="footer_about">
+                                    <div class="footer_logo">
+                                        <div class="d-flex flex-row align-items-center justify-content-center">
+                                            <img class="book_your_shelf_footer"
+                                                src="images/logo/book_your_shelf_logo.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Footer Links -->
+                            <div class="col-lg-4 footer_col">
+                                <ul class="footer_list">
+                                    <li>
+                                        <a href="membership.html" target="_blank">
+                                            <div>Terms and Conditions</div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="mailto: oak.bookyourshelf@gmail.com">
+                                            <div>Contact</div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="col-lg-2 footer_col"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_bar">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <div
+                                    class="footer_bar_content d-flex flex-md-row flex-column align-items-center justify-content-center">
+                                    <div class="copyright order-md-1 order-2">
+                                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                        Copyright &copy;
+                                        <script>
+                                            document.write(new Date().getFullYear());
+                                        </script>
+                                        All rights reserved | This template is made with <i class="fa fa-heart-o"
+                                            aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank"
+                                            class="orange-text">Colorlib</a> &
+                                        <b class="orange-text">Oak</b>
+                                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="styles/bootstrap-4.1.2/popper.js"></script>
+    <script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="plugins/greensock/TweenMax.min.js"></script>
+    <script src="plugins/greensock/TimelineMax.min.js"></script>
+    <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+    <script src="plugins/greensock/animation.gsap.min.js"></script>
+    <script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+    <script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+    <script src="plugins/easing/easing.js"></script>
+    <script src="plugins/progressbar/progressbar.min.js"></script>
+    <script src="plugins/parallax-js-master/parallax.min.js"></script>
+    <script src="js/classy-nav.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/active.js"></script>
+    <script src="js/login.js"></script>
+
+</body>
+
+</html>
+
+<?php
+
+if(isset($_POST['submit'])){
+    $f_name = $_POST['name'];
+    $l_name = $_POST['last_name'];
+    $email = $_POST['email'];
+    $password = $_POST['pass'];
+
+    $data = mysqli_query($conn, "SELECT * FROM `user_login` WHERE `Name` = '$f_name' && `Email` = '$email'");
+    if ($check = mysqli_num_rows($data) < 1) {
+        $q = mysqli_query($conn, "INSERT INTO `user_login`(`id`, `Name`, `Last_Name`, `Email`, `Pass`) VALUES ('','$f_name','$l_name','$email','$password')");
+        if ($q) {
+            echo "<script>
+            Swal.fire(
+                'Thank you!',
+                'Account Created Successfully!',
+                'success'
+            );
+              </script>";
+           
+        } else {
+            echo "<script>
+            Swal.fire(
+                'Sorry!',
+                'Something went wrong!',
+                'warning'
+            );
+              </script>";
+        
+        }
+    } else {
+        echo "<script>
+        Swal.fire(
+            'Sorry!',
+            'User is already registerd!',
+            'warning'
+        );
+          </script>";
+     
+    }
+}
+
+
+
+?>
+

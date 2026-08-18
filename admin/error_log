@@ -1,0 +1,132 @@
+[30-Jul-2023 18:03:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[30-Jul-2023 18:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function specific_department() on null in /home/qarshien/care.stylish.com.pk/admin/departmentdetail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/departmentdetail.php on line 12
+[30-Jul-2023 18:12:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[31-Jul-2023 07:15:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[05-Aug-2023 20:23:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[05-Aug-2023 20:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:43:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:44:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:47:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 9
+[05-Aug-2023 20:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 9
+[05-Aug-2023 20:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 9
+[05-Aug-2023 20:47:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 9
+[05-Aug-2023 20:48:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:48:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 12
+[05-Aug-2023 20:49:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:49:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[05-Aug-2023 20:50:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:50:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[05-Aug-2023 20:50:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:50:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[05-Aug-2023 20:51:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:51:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 3
+[05-Aug-2023 20:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[05-Aug-2023 20:54:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function blog_detail_id() on null in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/admin/blogsdetails.php on line 8
+[08-Aug-2023 06:30:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[08-Aug-2023 06:51:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function data::doctor_update(), 13 passed in /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php on line 208 and exactly 15 expected in /home/qarshien/care.stylish.com.pk/connection.php:247
+Stack trace:
+#0 /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php(208): data->doctor_update(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Friday', 'Saturday', NULL)
+#1 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/connection.php on line 247
+[08-Aug-2023 06:51:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function data::doctor_update(), 13 passed in /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php on line 208 and exactly 15 expected in /home/qarshien/care.stylish.com.pk/connection.php:247
+Stack trace:
+#0 /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php(208): data->doctor_update(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Friday', 'Saturday', NULL)
+#1 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/connection.php on line 247
+[08-Aug-2023 06:51:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function data::doctor_update(), 13 passed in /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php on line 208 and exactly 15 expected in /home/qarshien/care.stylish.com.pk/connection.php:247
+Stack trace:
+#0 /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php(208): data->doctor_update(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Friday', 'Saturday', NULL)
+#1 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/connection.php on line 247
+[08-Aug-2023 06:51:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function data::doctor_update(), 13 passed in /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php on line 208 and exactly 15 expected in /home/qarshien/care.stylish.com.pk/connection.php:247
+Stack trace:
+#0 /home/qarshien/care.stylish.com.pk/admin/doc-editprofile.php(208): data->doctor_update(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Friday', 'Saturday', NULL)
+#1 {main}
+  thrown in /home/qarshien/care.stylish.com.pk/connection.php on line 247
+[08-Aug-2023 07:38:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/qarshien/care.stylish.com.pk/admin/doc-nav.php on line 17
+[08-Aug-2023 07:38:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/doc-nav.php on line 34
+[08-Aug-2023 07:38:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/doc-nav.php on line 64
+[09-Aug-2023 07:51:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[13-Aug-2023 13:35:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[20-Aug-2023 12:03:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[22-Aug-2023 17:22:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.stylish.com.pk/admin/nav.php on line 69
+[21-Sep-2023 19:40:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[21-Sep-2023 20:00:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[21-Sep-2023 20:05:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[22-Sep-2023 06:29:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[22-Sep-2023 09:00:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[22-Sep-2023 09:52:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[22-Sep-2023 10:03:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
+[22-Sep-2023 16:52:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/qarshien/care.khareedoshoes.com/VintageBook/admin/nav.php on line 20
